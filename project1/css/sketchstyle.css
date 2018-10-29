@@ -1,0 +1,27 @@
+/* red color is e90d0d
+/* gray background color is F4F3F0
+720x500px
+/* drawing like color is 1B1C1F
+1px1px
+
+screen size: 720px 50px
+
+drawing line is one px*/
+
+
+.screen-grid {
+    height: 500px;
+	width: 700px;
+	background-color: #F4F3F0;
+    border: 60px solid #e90d0d;
+    border-radius: 20px;
+    margin: auto;
+
+}
+
+width: 500px;
+	height: 500px;
+	margin: auto;
+	background-color: #EBEBEB;
+	border: 60px solid #DD2900;
+	box-shadow: 10px 10px 0px 3px #888888;
